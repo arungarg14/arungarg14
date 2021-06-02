@@ -75,7 +75,7 @@ VS Code                  29 hrs 28 mins      ███████████�
 
 <!--END_SECTION:waka-->
 
----
+<!-- --- -->
 
 
 <!-- <img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs**  -->
@@ -86,35 +86,23 @@ VS Code                  29 hrs 28 mins      ███████████�
 --- 
 
 <p align="center">
-  
  <a href="https://www.codechef.com/users/iamchinu" />
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-   
+  </a>
+
   <a href="https://www.hackerrank.com/arungarg1414" />
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-
-   
-    <a href="https://www.linkedin.com/in/arun-garg-a220b4170" />
+  </a>
+  
+ <a href="https://www.linkedin.com/in/arun-garg-a220b4170" />
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px"> 
-     
-     <a href="https://twitter.com/Virat_Garg15" />
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">   
-  
-</p>
-
-
-<p align="center">
-  <a href="https://leetcode.com/user2917t/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.hackerrank.com/diticuo062">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://www.codewars.com/users/ditikrushna">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> 
+  
+  <a href="https://twitter.com/Virat_Garg15" />
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">   
+  </a> 
+  
+  
 </p>
 
 
