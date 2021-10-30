@@ -98,9 +98,9 @@ VS Code                  29 hrs 28 mins      ███████████�
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px"> 
   </a> 
   
-  <a href="https://twitter.com/_gargarun" />
+<!--   <a href="https://twitter.com/_gargarun" />
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">   
-  </a> 
+  </a>  -->
   
   
 </p>
