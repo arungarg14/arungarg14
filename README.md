@@ -20,8 +20,8 @@ or <a href="mailto:18335@iiitu.ac.in"><b>email</b></a> me
 - **I'm a Developer | Programmer | Learner**<br/>   
 - **I like to explore new technologies and develop software solutions .** <br/>
 - **I'm on track for learning more about designing scalable backend infrastructures and AWS Infrastructures** <br/>
-- **In my free time, I pursue Stock Market (side hustles).** <br/>
-- Know me about more [here](https://www.linkedin.com/in/arun-garg-a220b4170/)<br/> 
+- **In my free time, I pursue learning Stock Market.** <br/>
+<!-- - Know me about more [here](https://www.linkedin.com/in/arun-garg-a220b4170/)<br/>  -->
 
  
 > Fact-1 : The very first step towards creating long-lasting software is figuring out how to write clean code.
@@ -94,9 +94,9 @@ VS Code                  29 hrs 28 mins      ███████████�
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>
   
- <a href="https://www.linkedin.com/in/arun-garg-a220b4170" />
+<!--  <a href="https://www.linkedin.com/in/arun-garg-a220b4170" />
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px"> 
-  </a> 
+  </a>  -->
   
 <!--   <a href="https://twitter.com/_gargarun" />
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">   
